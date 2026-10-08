@@ -1,0 +1,8 @@
+kafka-python==2.0.2
+numpy==1.26.4
+scikit-learn==1.4.2
+geopy==2.4.1
+joblib==1.4.0
+faker==24.4.0
+tensorflow==2.16.1
+shap==0.45.1
